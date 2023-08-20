@@ -1,6 +1,6 @@
 # Customer Churn Prediction: Vodafone Corporation
 
-![Customer_Churn](Customer-Churn.jpg) 
+![Customer_Churn](Images\Customer-Churn.jpg) 
 
 *Predicting customer churn using machine learning to ensure customer satisfaction and better retention rates.*
 
